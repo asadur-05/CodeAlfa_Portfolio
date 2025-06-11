@@ -1,1 +1,1 @@
-# CodeAlfa_Portfolio
+This is a personal portfolio website designed to showcase my skills, projects, and achievements. Built using HTML, CSS, and JavaScript (or any additional technologies you used), it provides a clean and responsive interface to highlight my work and experiences. This project reflects my journey as a developer and serves as a central hub for potential collaborators, recruiters, and visitors to learn more about me and my work. Feel free to explore, and suggestions for improvements are always welcome!
